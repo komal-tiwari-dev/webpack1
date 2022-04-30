@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    background-color: black;
+}
+#options{
+    display: flex;
+    gap: 20px;
+}
